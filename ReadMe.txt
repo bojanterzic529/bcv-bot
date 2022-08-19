@@ -1,2 +1,2 @@
 # BCV bot
-this bot for auto controlling of bond price in OHM project v1
+this bot for auto controlling of bond price in OHM project
